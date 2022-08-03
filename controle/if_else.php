@@ -1,5 +1,13 @@
 <div class="titulo">If - Else</div>
 
 <?php
-if(true)
+if(true){
     echo 'If uma linha';
+}
+
+if(true)
+    echo  "Verdadeiro";
+else
+    echo "Falso";
+
+echo "Fim"; 

@@ -52,17 +52,19 @@
                     </ul>
                 </div>
                 <div class="modulo roxo">
-                    <h3>Modulos 01 - Básico</h3>
+                    <h3>Modulos 04 - Controle</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=if_else">If -/Else</a></li>
                     </ul>
                 </div>
                 <div class="modulo laranja">
-                    <h3>Modulos 01 - Básico</h3>
+                    <h3>Modulos 05 - Array</h3>
                     <ul>
-                        <li><a href="#">Ex-01</a></li>
-                        <li><a href="#">Ex-01</a></li>
-                        <li><a href="#">Ex-01</a></li>
+                        <li><a href="exercicio.php?dir=array&file=basico">Basíco Array</a></li>
+                        <li><a href="exercicio.php?dir=array&file=mapa">Mapa Array</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_indice">Desafio Indice</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
+                        <li><a href="exercicio.php?dir=array&file=operacoes_array">Operações Array</a></li>
                     </ul>
                 </div>
                 <div class="modulo verde-escuro">
