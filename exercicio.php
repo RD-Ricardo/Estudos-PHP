@@ -11,7 +11,7 @@
 <body class="exercicio">
     <header class="cabecalho">
         <h1>Curso PHP</h1>
-        <h2>Visualização do ecercício</h2>
+        <h2>Visualização do exercício</h2>
     </header>
     <nav class="navegacao">
         <a href="#" class="verde">Sem formatacao</a>

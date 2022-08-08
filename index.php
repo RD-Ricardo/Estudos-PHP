@@ -65,6 +65,12 @@
                         <li><a href="exercicio.php?dir=array&file=desafio_indice">Desafio Indice</a></li>
                         <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
                         <li><a href="exercicio.php?dir=array&file=operacoes_array">Operações Array</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio</a></li>
+                        <li><a href="exercicio.php?dir=array&file=multi">Multimensionais</a></li>
+                        <li><a href="exercicio.php?dir=array&file=constantes">Array Constates</a></li>
+                        <li><a href="exercicio.php?dir=array&file=get">"$_GET"</a></li>
+                        <li><a href="exercicio.php?dir=array&file=get">"$_GET"</a></li>
+                        <li><a href="exercicio.php?dir=array&file=comparacao">Comparação de Array</a></li>
                     </ul>
                 </div>
                 <div class="modulo verde-escuro">
